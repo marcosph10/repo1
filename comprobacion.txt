@@ -1,1 +1,1 @@
-Este archivo sirve para comprobar que el repositorio funciona correctamente
+Este archivo sirve para comprobar que el repositorio funciona correctamente.
